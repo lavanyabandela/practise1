@@ -1,0 +1,53 @@
+
+ .card-dark{
+    height:100vh;
+    display:flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+} */
+
+ .list{
+    background-color: white;
+    height: 200px;
+    width: 200px;
+    text-align: center;
+    justify-content: center;
+    border-radius: 20px;
+    
+    
+    
+  }
+  .list{
+    background-color:aquamarine;
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+    text-align: flex-start;
+    height: 600px;
+    justify-content: center;
+    align-items: center;
+  } */
+
+  .from{
+    background-color: black;
+    height: 100vh;
+    display: flex;
+    flex-direction:column;
+    justify-content: center;
+    align-items: center;
+
+
+  }
+  .InputField{
+    height: 2rem;
+    width: 20rem;
+  }
+
+  .Button{
+    background-color: rgb(30,48,120);
+    border-radius: 10px;
+    height: 40px;
+    width: 80px;
+    color:beige;
+  }
